@@ -15,7 +15,9 @@ _Button.js_ and _Stack.js_
 
 `npx sb init`
 
-Delete all the example files from **stories** folder
+Delete all the example files from **stories** folder.
+
+Create your own stories: _Button.stories.js_ and _Stack.stories.js_
 
 ### In the project directory, you can run:
 
