@@ -19,7 +19,7 @@ Delete all the example files from **stories** folder.
 
 Create your own stories: _Button.stories.js_ and _Stack.stories.js_
 
-![Red Button Story](https://github.com/danilo-cupido/storybook-play-around/blob/main/public/Story_red.png)
+![Red Button Story](/public/Story_red.png)
 
 ### In the project directory, you can run:
 
@@ -34,3 +34,5 @@ You may also see any lint errors in the console.
 `npm run storybook`
 
 Opens and runs Storybook in the web browser
+
+![Storybook](/public/Sb_screenshot.png)
