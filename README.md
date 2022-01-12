@@ -19,6 +19,8 @@ Delete all the example files from **stories** folder.
 
 Create your own stories: _Button.stories.js_ and _Stack.stories.js_
 
+![Red Button Story](https://github.com/danilo-cupido/storybook-play-around/blob/main/public/Story_red.png)
+
 ### In the project directory, you can run:
 
 `npm start`
